@@ -1,0 +1,13 @@
+# requirements.txt
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+ftfy
+emoji
+unidecode
+phonenumbers
+torch
+transformers
+accelerate
